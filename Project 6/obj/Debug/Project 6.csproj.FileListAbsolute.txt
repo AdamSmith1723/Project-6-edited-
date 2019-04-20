@@ -1,0 +1,7 @@
+C:\Users\Cing Lun\Documents\C# Class\Project 6\Project 6\Project 6\bin\Debug\Project 6.exe.config
+C:\Users\Cing Lun\Documents\C# Class\Project 6\Project 6\Project 6\bin\Debug\Project 6.exe
+C:\Users\Cing Lun\Documents\C# Class\Project 6\Project 6\Project 6\bin\Debug\Project 6.pdb
+C:\Users\Cing Lun\Documents\C# Class\Project 6\Project 6\Project 6\obj\Debug\Project 6.csprojAssemblyReference.cache
+C:\Users\Cing Lun\Documents\C# Class\Project 6\Project 6\Project 6\obj\Debug\Project 6.csproj.CoreCompileInputs.cache
+C:\Users\Cing Lun\Documents\C# Class\Project 6\Project 6\Project 6\obj\Debug\Project 6.exe
+C:\Users\Cing Lun\Documents\C# Class\Project 6\Project 6\Project 6\obj\Debug\Project 6.pdb
